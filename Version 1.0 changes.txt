@@ -1,0 +1,24 @@
+
+-----------------------------------------------------------
+Version 1.1
+-----------------------------------------------------------
+
+We updated app to get user's basic details and workout tendency 
+1) get user's name
+2) get user's mobile number
+3) get user's gender
+4) get user's Age
+5) get user's height
+6) get user's workout frequency 
+7) get user's workout intensity 
+
+-----------------------------------------------------------
+Version 1.0
+-----------------------------------------------------------
+
+1.48+ workouts designed for men and women
+2.Personalised for YOU — select your exercise and create your own workout
+3.Bodyweight exercises for upper body, abs, waist, thighs and butt
+4.Get rid of excessive fat following instructive exercise
+5.Reports for each workout
+6.Track your weight reports too
